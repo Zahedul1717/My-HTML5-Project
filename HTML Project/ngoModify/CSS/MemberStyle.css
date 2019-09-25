@@ -1,0 +1,15 @@
+﻿body {
+    /*background-image: url('../Image/Nogorful-Logo-PNC.png');*/
+}
+
+
+table {
+    color: black;
+
+    font-weight: bold;
+    border-collapse: collapse;
+}
+
+    table.inner {
+        border: 0px
+    }

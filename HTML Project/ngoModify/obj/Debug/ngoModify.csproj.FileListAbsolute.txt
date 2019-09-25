@@ -1,0 +1,248 @@
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\csc.exe
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\csc.exe.config
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\csc.rsp
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\csi.exe
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\csi.rsp
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\System.AppContext.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\System.Collections.Immutable.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\System.Reflection.Metadata.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\vbc.exe
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\vbc.exe.config
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\vbc.rsp
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe.config
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\ngoModify.dll.config
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\ngoModify.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\ngoModify.pdb
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\IDB Project\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.csprojResolveAssemblyReference.cache
+F:\IDB Project\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.dll
+F:\IDB Project\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.pdb
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\csc.exe
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\csc.exe.config
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\csc.rsp
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\csi.exe
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\csi.rsp
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\System.AppContext.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\vbc.exe
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\vbc.exe.config
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\vbc.rsp
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\ngoModify.dll.config
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\ngoModify.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\ngoModify.pdb
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.csprojAssemblyReference.cache
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.dll
+C:\Users\idb_c#\Desktop\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.pdb
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\csc.exe
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\csc.exe.config
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\csc.rsp
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\csi.exe
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\csi.rsp
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CSharp.Core.targets
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\System.AppContext.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\System.Collections.Immutable.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\System.Reflection.Metadata.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\vbc.exe
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\vbc.exe.config
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\vbc.rsp
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe.config
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\ngoModify.dll.config
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\ngoModify.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\ngoModify.pdb
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.csprojAssemblyReference.cache
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CoreCompileInputs.cache
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CopyComplete
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.dll
+\\172.16.25.200\IDB_Bisew\C#\C# Round 39\1246555_ Xahedul islam\Project IDB\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.pdb
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\csc.exe
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\csc.exe.config
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\csc.rsp
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\csi.exe
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\csi.rsp
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\System.AppContext.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\System.Collections.Immutable.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\System.Reflection.Metadata.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\vbc.exe
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\vbc.exe.config
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\vbc.rsp
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe.config
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\ngoModify.dll.config
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\ngoModify.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\ngoModify.pdb
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.csprojResolveAssemblyReference.cache
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.dll
+F:\IDB Project\HTML\modifi\ngoModify\ngoModify\obj\Debug\ngoModify.pdb
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\csc.exe
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\csc.exe.config
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\csc.rsp
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\csi.exe
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\csi.rsp
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\System.AppContext.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\vbc.exe
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\vbc.exe.config
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\vbc.rsp
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\ngoModify.dll.config
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\ngoModify.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\ngoModify.pdb
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\obj\Debug\ngoModify.csprojAssemblyReference.cache
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CoreCompileInputs.cache
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CopyComplete
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\obj\Debug\ngoModify.dll
+C:\Users\idb_c#\Desktop\ngoModify\ngoModify\obj\Debug\ngoModify.pdb
+G:\ngoModify\ngoModify\bin\roslyn\csc.exe
+G:\ngoModify\ngoModify\bin\roslyn\csc.exe.config
+G:\ngoModify\ngoModify\bin\roslyn\csc.rsp
+G:\ngoModify\ngoModify\bin\roslyn\csi.exe
+G:\ngoModify\ngoModify\bin\roslyn\csi.rsp
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ngoModify\ngoModify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ngoModify\ngoModify\bin\roslyn\System.AppContext.dll
+G:\ngoModify\ngoModify\bin\roslyn\System.Collections.Immutable.dll
+G:\ngoModify\ngoModify\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.dll
+G:\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ngoModify\ngoModify\bin\roslyn\System.Reflection.Metadata.dll
+G:\ngoModify\ngoModify\bin\roslyn\vbc.exe
+G:\ngoModify\ngoModify\bin\roslyn\vbc.exe.config
+G:\ngoModify\ngoModify\bin\roslyn\vbc.rsp
+G:\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe
+G:\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe.config
+G:\ngoModify\ngoModify\bin\ngoModify.dll.config
+G:\ngoModify\ngoModify\bin\ngoModify.dll
+G:\ngoModify\ngoModify\bin\ngoModify.pdb
+G:\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ngoModify\ngoModify\obj\Debug\ngoModify.csprojAssemblyReference.cache
+G:\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CoreCompileInputs.cache
+G:\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CopyComplete
+G:\ngoModify\ngoModify\obj\Debug\ngoModify.dll
+G:\ngoModify\ngoModify\obj\Debug\ngoModify.pdb
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\csc.exe
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\csc.exe.config
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\csc.rsp
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\csi.exe
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\csi.rsp
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\System.AppContext.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\System.Collections.Immutable.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\System.Reflection.Metadata.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\vbc.exe
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\vbc.exe.config
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\vbc.rsp
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\roslyn\VBCSCompiler.exe.config
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\ngoModify.dll.config
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\ngoModify.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\ngoModify.pdb
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\obj\Debug\ngoModify.csprojAssemblyReference.cache
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CoreCompileInputs.cache
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\obj\Debug\ngoModify.csproj.CopyComplete
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\obj\Debug\ngoModify.dll
+Z:\C# Round 39\Resources\R39 Exam Project_HTML\1246555_Zahed\ngoModify\ngoModify\obj\Debug\ngoModify.pdb

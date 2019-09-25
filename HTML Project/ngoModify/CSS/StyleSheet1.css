@@ -1,0 +1,155 @@
+﻿body {
+    background-color:lightgray;
+}
+#Logo {
+    position:fixed;
+    top: 10%;
+    /*margin-top:-50px;*/
+}  
+#h {
+    width:60%;
+    height:10px;
+    text-align: right;
+    color: green
+}
+
+#hh {
+    /*position:fixed;*/
+    /*top:14px;*/ 
+    margin-top:30px;
+    text-align:left;
+    padding-left:470px;
+}
+
+#Container{
+    height:auto;
+    width:950px;
+    background-color:whitesmoke;
+    margin:2px auto;
+}
+
+#headerImg {
+    /*/*overflow: hidden;
+    position: fixed;
+    top: 0;*/*/;
+    height: 150px;
+    width: 100%;
+    background-color: yellow;
+}
+
+  
+ #menu {
+        height: 40px;
+        width: 100%;
+        background-color: aquamarine;
+    }
+
+
+#main {
+    background-color: #4280f4;
+    height: auto;
+    width: 100%;
+}
+
+
+
+.footer {
+    background-color:aliceblue;
+    height: auto;
+    width: 100%;
+}
+
+.footer2 {
+    height: 110px;
+    width: 100%;
+    font-size: 18px;
+    background-color: #272728;
+    color: white
+}
+
+#picture {
+    border: 0px 3px solid #1458ba;
+    height: 500px;
+}
+
+#picture img{
+    height:500px;
+}
+
+
+
+.icon-bar {
+    position: fixed;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+    /* Style the icon bar links */
+    .icon-bar a {
+        display: block;
+        text-align: center;
+        padding: 16px;
+        transition: all 0.3s ease;
+        color: white;
+        font-size: 20px;
+    }
+
+        /* Style the social media icons with color, if you want */
+        .icon-bar a:hover {
+            background-color: #000;
+        }
+
+.facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.google {
+    background: #dd4b39;
+    color: white;
+}
+
+
+
+
+
+.zoom {
+    padding: 5px;
+    background-color: green;
+    /*transition: transform .2s;  Animation 
+    width: 20px;
+    height: auto;*/
+    margin: 0 auto;
+}
+
+    .zoom:hover {
+        transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
